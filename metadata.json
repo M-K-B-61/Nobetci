@@ -1,0 +1,6 @@
+{
+  "name": "Nöbetçi",
+  "description": "Akıllı Araç Hareket Nöbetçisi - Kuyrukta öndeki aracın hareketini güvenilir şekilde izler ve önünüz açıldığında uyarır.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
